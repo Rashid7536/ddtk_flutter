@@ -25,7 +25,7 @@ flutter pub get
 5. Run the app:
 
 For Android:
----
+
 flutter run
 ---
 
