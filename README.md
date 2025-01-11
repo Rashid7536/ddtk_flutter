@@ -26,8 +26,9 @@ flutter pub get
 
 For Android:
 
-flutter run
 ---
+> flutter run
+
 
 ### Usage
 
