@@ -4,10 +4,17 @@
 ### Project Overview
 ddtk_flutter is a Flutter-based mobile application designed for managing and monitoring patients who are donors or recipients of diseased donor kidneys for transplant purposes. The app serves as a medical portfolio for patients, allowing storage and tracking of essential data related to their health and transplant journey.
 
-<img src="loginP.jpeg" width="300" />
-<img src="mainP.jpeg" width="300" />
-<img src="selectP.jpeg" width="300" />
-<img src="SelfRegP.jpeg" width="300" />
+
+<div class="row">
+    <div class="column"><img src="loginP.jpeg" width="300" /></div>
+    <div class="column"><img src="mainP.jpeg" width="300" /></div>
+    <div class="column"><img src="selectP_1.jpeg" width="300" /></div>
+
+    
+    
+    <img src="SelfRegP.jpeg" width="300" />
+
+</div>
 
 ### Key Features
 - Patient Data Management: The app enables storing and tracking patient information, including personal details, medical history, and transplant-related data.
